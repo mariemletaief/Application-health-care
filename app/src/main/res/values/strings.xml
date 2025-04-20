@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application-health-care</string>
+    <string name="healthcare_title">24*7 health care</string>
+    <string name="login">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register_prompt">Register For New User</string>
+
+
+</resources>
